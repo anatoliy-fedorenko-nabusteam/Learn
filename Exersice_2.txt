@@ -1,1 +1,2 @@
 Message 1[master]
+Message 2[master]
